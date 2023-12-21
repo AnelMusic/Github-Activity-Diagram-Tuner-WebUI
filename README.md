@@ -8,7 +8,7 @@ Of course, I'd never suggest bending the rules or anything; this repo is purely 
 Note:
 - This isn't a professionally polished product, and I didn't invest an excessive amount of time into it. It's designed to do the job, and if you come across any bugs, please don't hesitate to submit pull requests.
 - The code hasn't undergone formal software testing, such as unit tests or integration tests. All testing has been done manually, and there's no need to overcomplicate this straightforward task.
-</br>
+
 ##### You can expect to go from this:
 <p align="center">
   <!-- Original Image -->
