@@ -27,14 +27,14 @@ Before running the app some preparation is needed:
 1. Create a repository and make it private
 
 <p align="center">
-  <img src="https://github.com/AnelMusic/Github-Activity-Diagram-Tuner-WebUI/assets/32487291/85bc2b5e-ba08-4a4f-89d6-7c42f809db08" alt="4" width="550" height="600">
+  <img src="https://github.com/AnelMusic/Github-Activity-Diagram-Tuner-WebUI/assets/32487291/85bc2b5e-ba08-4a4f-89d6-7c42f809db08" alt="4" width="650" height="700">
 </p>
 
 
 2. Do not initialise your repository such that it looks like:
 
 <p align="center">
-  <img src="https://github.com/AnelMusic/Github-Activity-Diagram-Tuner-WebUI/assets/32487291/a97bc6e3-e7e3-4035-b6d7-0d17f526c14d" alt="4" width="550" height="600">
+  <img src="https://github.com/AnelMusic/Github-Activity-Diagram-Tuner-WebUI/assets/32487291/a97bc6e3-e7e3-4035-b6d7-0d17f526c14d" alt="4" width="650" height="700">
 </p>
 
 
@@ -56,7 +56,7 @@ Before running the app some preparation is needed:
 ### Once the UI is UP:
 
 <p align="center">
-  <img src="https://github.com/AnelMusic/Github-Activity-Diagram-Tuner-WebUI/assets/32487291/f3117745-7f6f-4170-9787-3369da4f8a18" alt="4" width="700" height="450">
+  <img src="https://github.com/AnelMusic/Github-Activity-Diagram-Tuner-WebUI/assets/32487291/f3117745-7f6f-4170-9787-3369da4f8a18" alt="4" width="700" height="550">
 </p>
 
 You can interactively provide input for the following variables:
