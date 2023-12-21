@@ -5,13 +5,18 @@ So, this app lets you manipulate your GitHub Activity and create a 'realistic' c
 
 Of course, I'd never suggest bending the rules or anything; this repo is purely for 'educational' purposes, you know what I mean? But seriously, if someone's gonna judge your coding skills based on a little activity chart, they should be fooled. Fair, right?
 
-- You can expect to go from this:
+Note:
+- This isn't a professionally polished product, and I didn't invest an excessive amount of time into it. It's designed to do the job, and if you come across any bugs, please don't hesitate to submit pull requests.
+- The code hasn't undergone formal software testing, such as unit tests or integration tests. All testing has been done manually, and there's no need to overcomplicate this straightforward task.
+</br>
+
+##### You can expect to go from this:
 <p align="center">
   <!-- Original Image -->
   <img src="https://github.com/AnelMusic/Github-Activity-Diagram-Tuner-WebUI/assets/32487291/35568a3d-8c93-45fa-ad4c-873bcf04871c" alt="111111" width="800" height="200">
 </p>
 
-- to this:
+##### to this:
 
 <p align="center">
   <!-- Resized Image -->
