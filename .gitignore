@@ -1,0 +1,29 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Dependency directories
+lib/
+libs/
+
+# Python package cache
+*.egg-info/
+
+# IDE-specific files (e.g., for Visual Studio Code)
+.vscode/
+
+# Editor-specific temporary files
+*~
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Miscellaneous
+.DS_Store
+__MACOSX/
