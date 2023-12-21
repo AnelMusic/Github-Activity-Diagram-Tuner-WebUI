@@ -1,6 +1,6 @@
 ## Activity-Diagram-Tuner
 
-Call this project a rebellious response to a situation where a talented friend of mine was unjustly judged during an interview based on her GitHub Activity. These diagrams are oviously not a reliable indicators of true engineering excellence or skill. That's why I present 'GitHub Activity Diagram Tuner.
+Call this project a rebellious response to a situation where a talented friend of mine was unjustly judged during an interview based on her GitHub Activity. These diagrams are oviously not a reliable indicators of true engineering excellence or skill. That's why I present a GitHub Activity Diagram Tuner.
 So, this app lets you manipulate your GitHub Activity and create a 'realistic' commit history. 
 
 Of course, I'd never suggest bending the rules or anything; this repo is purely for 'educational' purposes, you know what I mean? But seriously, if someone's gonna judge your coding skills based on a little activity chart, they should be fooled. Fair, right?
