@@ -23,65 +23,84 @@ Note:
 </p>
 
 
+### 1. Git Repo Setup:
 
-### Git Repo Setup:
-Before running the app some preparation is needed:
+Before you can run the app, some initial setup for your Git repository is required. Follow these steps to ensure your repository is properly configured:
 
-
-1. Create a repository and make it private
+**1.Create a Private Repository:**
+   - Start by creating a new repository on GitHub, and make sure to set it as private. This will keep your project secure.
 
 <p align="center">
   <img src="https://github.com/AnelMusic/Github-Activity-Diagram-Tuner-WebUI/assets/32487291/85bc2b5e-ba08-4a4f-89d6-7c42f809db08" alt="4" width="650" height="700">
 </p>
 
-
-2. Do not initialise your repository such that it looks like:
+**2. Do Not Initialize Your Repository Like This:**
+   - Make sure not to initialize your repository with any files or a README that makes it look like this:
 
 <p align="center">
   <img src="https://github.com/AnelMusic/Github-Activity-Diagram-Tuner-WebUI/assets/32487291/a97bc6e3-e7e3-4035-b6d7-0d17f526c14d" alt="4" width="650" height="700">
 </p>
+By following these guidelines, you'll have your Git repository set up correctly for the app to work seamlessly.
 
 
-### Basic Workflows:
-1. Fork project: https://github.com/AnelMusic/Github-Activity-Diagram-Tuner-WebUI/n/fork)
-2. Create venv and activate it
-   - Linux:
-     - python3 -m venv myenv
-     - source myenv/bin/activate
-   - Windows:
-     - python -m venv myenv
-     - .\myenv\Scripts\Activate.ps1
-3. Install requirements.txt
-    - pip install requirements.txt
-5. Run ui_launcher.py
-   - python ui_launcher.py
+
+### 2. Getting Started:
+
+Follow these simple steps to get started with the GitHub Activity Diagram Tuner WebUI:
+
+**1. Fork the Repository:**
+   - Start by forking the project repository from [here](https://github.com/AnelMusic/Github-Activity-Diagram-Tuner-WebUI/fork).
+
+**2. Set Up a Virtual Environment:**
+   - Create a virtual environment and activate it based on your operating system:
+     - For Linux:
+       - Run `python3 -m venv myenv` to create a virtual environment named `myenv`.
+       - Activate it with `source myenv/bin/activate`.
+     - For Windows:
+       - Run `python -m venv myenv` to create a virtual environment named `myenv`.
+       - Activate it with `.\myenv\Scripts\Activate.ps1`.
+
+**3. Install Dependencies:**
+   - Install the required dependencies from `requirements.txt` using pip:
+     ```
+     pip install -r requirements.txt
+     ```
+
+**4. Run the WebUI:**
+   - Start the WebUI by running `ui_launcher.py`:
+     ```
+     python ui_launcher.py
+     ```
 
 
-### Once the UI is UP:
+
+### 3. Interact with the User Interface:
+
+Once you have the user interface up and running, you can easily provide input for various settings:
 
 <p align="center">
-  <img src="https://github.com/AnelMusic/Github-Activity-Diagram-Tuner-WebUI/assets/32487291/f3117745-7f6f-4170-9787-3369da4f8a18" alt="4" width="700" height="550">
+  <img src="https://github.com/AnelMusic/Github-Activity-Diagram-Tuner-WebUI/assets/32487291/f3117745-7f6f-4170-9787-3369da4f8a18" alt="UI Screenshot" width="700" height="550">
 </p>
 
-You can interactively provide input for the following variables:
+Here are the interactive variables you can adjust:
 
-- `exclude_weekends`: Use the Checkbox to exclude weekends from the contribution schedule.
+- **Exclude Weekends:** Use the checkbox to exclude weekends from the contribution schedule.
 
-- `max_daily_commits`: Users can specify the maximum number of commits allowed per day. If left empty, the default value of 10 will be used.
+- **Max Daily Commits:** Specify the maximum number of commits allowed per day. Leave it empty to use the default value of 10.
 
-- `commit_probability`: Define the commit probability percentage (default 80) by entering the desired value. If left empty, the default value of 80% will be used.
+- **Commit Probability:** Define the commit probability percentage (default 80%) by entering your desired value. Leave it empty to use the default.
 
-- `repository_url`: Enter the URL of the remote Git repository where commits will be pushed. (See above marked in red)
+- **Repository URL:** Enter the URL of the remote Git repository where commits will be pushed (highlighted in red in the image above).
 
-- `git_username`: Specify the Git username for commit attribution.
+- **Git Username:** Specify your Git username for commit attribution.
 
-- `git_email`: Specify the Git email for commit attribution.
+- **Git Email:** Specify your Git email for commit attribution.
 
-- `start_period`: Define the start of the contribution period as a number of days before the current date. If left empty, the default period of 365 days will be used.
+- **Start Period:** Define the start of the contribution period as a number of days before the current date. Leave it empty to use the default period of 365 days.
 
-- `end_period`: Define the end of the contribution period as a number of days after the current date. If left empty, the default period of 0 days will be used.
+- **End Period:** Define the end of the contribution period as a number of days after the current date. Leave it empty to use the default period of 0 days.
 
-### Press Submit
+### Finally, Press Submit
 
-You're welcome
+You're all set! Enjoy using the app.
 
