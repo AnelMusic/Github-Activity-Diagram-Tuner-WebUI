@@ -23,7 +23,7 @@ Note:
 </p>
 
 
-### 1. Git Repo Setup:
+## Git Repo Setup:
 
 Before you can run the app, some initial setup for your Git repository is required. Follow these steps to ensure your repository is properly configured:
 
@@ -44,7 +44,7 @@ By following these guidelines, you'll have your Git repository set up correctly 
 
 
 
-### 2. Getting Started:
+## Getting Started:
 
 Follow these simple steps to get started with the GitHub Activity Diagram Tuner WebUI:
 
@@ -74,7 +74,7 @@ Follow these simple steps to get started with the GitHub Activity Diagram Tuner 
 
 
 
-### 3. Interact with the User Interface:
+## Interact with the User Interface:
 
 Once you have the user interface up and running, you can easily provide input for various settings:
 
@@ -103,4 +103,15 @@ Here are the interactive variables you can adjust:
 ### Finally, Press Submit
 
 You're all set! Enjoy using the app.
+
+
+### Troubleshooting and Support:
+
+If you encounter any errors while using the app, follow these steps for assistance:
+
+1. **Check the Logs:** First, examine the logs for any error messages or useful information. The logs can often provide clues about what went wrong.
+
+2. **Create an Issue:** If you're unable to resolve the problem on your own, don't hesitate to create a new issue on the repository. Describe the problem you're facing in detail, including any error messages you've encountered. 
+
+Feel free to reach out if you run into any difficulties. Your feedback and issues are valuable for improving the app's functionality.
 
