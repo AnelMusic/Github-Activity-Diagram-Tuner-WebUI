@@ -105,7 +105,7 @@ Here are the interactive variables you can adjust:
 You're all set! Enjoy using the app.
 
 
-### Troubleshooting and Support:
+## Troubleshooting and Support:
 
 If you encounter any errors while using the app, follow these steps for assistance:
 
